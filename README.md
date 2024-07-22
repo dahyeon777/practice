@@ -1,5 +1,4 @@
 안드로이드 공부 내용을 저장합니다.
-Unscramble App
 ===================================
 
 Starter code for Android Basics codelab - Store the data in a ViewModel
